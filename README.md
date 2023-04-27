@@ -12,10 +12,10 @@ To execute the program, follow below given steps:
 
 (5) Also, you will see many pickles files which will help us in executing our program.
 
-(6) Open 'pycharm'-> then click on 'open'-> open 'fake_review_detector' folder, later download all the requirements required (given in the folder, requirements.txt).
+(6) Open 'pycharm'-> then click on 'open'-> open 'Fake-Review-Detection-for-Ecommerce' folder, later download all the requirements that's required.
 
-(7) Explore deployment.py file, where we have imported streamlit(genrally use to lend program on web) also here we have linked our 2 pickel flies.
+(7) Explore stacked.py & gnn.py file, where we have imported streamlit(genrally use for web deployment).
 
-(8) Open terminal and type: streamlit run deployment.py
+(8) Open terminal and type: streamlit run stacked.py & streamlit run gnn.py
 
 (9) Finally, the program has been successfully executed
